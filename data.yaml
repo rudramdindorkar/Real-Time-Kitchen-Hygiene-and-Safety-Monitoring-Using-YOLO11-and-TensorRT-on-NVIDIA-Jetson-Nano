@@ -1,0 +1,17 @@
+path: /dataset
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 9
+names:
+  0: cockroach
+  1: unused_1        # placeholder, no labels should use this
+  2: gloves
+  3: hairnet
+  4: mask
+  5: without-gloves
+  6: unused_6        # old cockroach slot, no labels should use this
+  7: without-hairnet
+  8: without-mask

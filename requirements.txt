@@ -1,0 +1,5 @@
+# Kitchen Hygiene Detection - Python dependencies
+ultralytics
+opencv-python
+numpy
+PyYAML
