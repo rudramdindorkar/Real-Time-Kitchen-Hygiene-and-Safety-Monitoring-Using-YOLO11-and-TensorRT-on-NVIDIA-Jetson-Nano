@@ -355,8 +355,7 @@ India.
 
 ## Acknowledgement
 
-The authors thank the RBU AI Center, Ramdeobaba University, for
-providing access to the NVIDIA DGX B200 used for model training.
+The authors sincerely thank the RBU AI Center, Ramdeobaba University, for providing access to the NVIDIA DGX B200, which was utilized for model training. The authors also express their heartfelt gratitude to their project guide for valuable guidance, continuous support, and constructive suggestions throughout the course of this work.
 
 ## Publication
 
